@@ -22,7 +22,7 @@ Currently building **CareCade**, a HIPAA/SOC2-compliant platform for Washington 
 ## Proof Points
 
 - 86% revenue increase for a CareCade client (verified via fiscal.wa.gov)
-- QatarDebate platform running 7+ years in production
+- QatarDebate platform up & running in production since 2017 
 
 ---
 
