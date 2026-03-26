@@ -3,7 +3,7 @@
 
 I build platforms for industries underserved by software — healthcare compliance, developmental disability services, and operational systems that replace manual workflows.
 
-Currently building **CareCade**, a HIPAA/SOC2-compliant platform for Washington State DDA providers, and **ThinkWall.st**, an AI-powered investment research platform.
+Currently building **CareCade**, a HIPAA/SOC2-compliant platform for Washington State DDA providers.
 
 ---
 
