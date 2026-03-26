@@ -1,4 +1,4 @@
-# Ibrahim Elhag
+<img width="1440" height="1426" alt="image" src="https://github.com/user-attachments/assets/d7d6b2ac-2098-4cfb-b479-40862e464f2e" /># Ibrahim Elhag
 ### Full-stack engineer · Healthcare SaaS · Seattle, WA
 
 I build platforms for industries underserved by software — healthcare compliance, developmental disability services, and operational systems that replace manual workflows.
