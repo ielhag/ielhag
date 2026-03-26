@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ibrahim Elhag
+### Full-stack engineer · Healthcare SaaS · Seattle, WA
 
-<!--
-**ielhag/ielhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build platforms for industries underserved by software — healthcare compliance, developmental disability services, and operational systems that replace manual workflows.
 
-Here are some ideas to get you started:
+Currently building **CareCade**, a HIPAA/SOC2-compliant platform for Washington State DDA providers, and **ThinkWall.st**, an AI-powered investment research platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Active Projects
+
+**[CareCade](https://carecade.org)** — Multi-tenant SaaS for DDA/DSHS providers. Next.js 14, Laravel 11, Flutter. HIPAA + SOC2 compliant.
+
+**[ThinkWall.st](https://thinkwallst.com)** — AI-powered stock research platform. FastAPI, Go microservices, AWS ECS, Claude AI integration.
+
+---
+
+## Stack
+
+`Next.js 14` `Laravel 11` `Flutter` `FastAPI` `Go` `AWS ECS` `Stripe` `PostgreSQL` `Redis` `Pusher` `Firebase` `HIPAA/SOC2`
+
+---
+
+## Proof Points
+
+- 86% revenue increase for a CareCade client (verified via fiscal.wa.gov)
+- QatarDebate platform running 7+ years in production
+- ThinkWall.st processes 7,500+ stocks daily with Go microservices
+
+---
+
+## Contact
+
+[carecade.org](https://carecade.org) · [thinkwallst.com](https://thinkwallst.com) · [LinkedIn](https://linkedin.com/in/ielhag)
