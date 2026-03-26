@@ -1,4 +1,4 @@
-<img width="1440" height="1426" alt="image" src="https://github.com/user-attachments/assets/d7d6b2ac-2098-4cfb-b479-40862e464f2e" /># Ibrahim Elhag
+# Ibrahim Elhag
 ### Full-stack engineer · Healthcare SaaS · Seattle, WA
 
 I build platforms for industries underserved by software — healthcare compliance, developmental disability services, and operational systems that replace manual workflows.
@@ -10,8 +10,6 @@ Currently building **CareCade**, a HIPAA/SOC2-compliant platform for Washington 
 ## Active Projects
 
 **[CareCade](https://carecade.org)** — Multi-tenant SaaS for DDA/DSHS providers. Next.js 14, Laravel 11, Flutter. HIPAA + SOC2 compliant.
-
-**[ThinkWall.st](https://thinkwallst.com)** — AI-powered stock research platform. FastAPI, Go microservices, AWS ECS, Claude AI integration.
 
 ---
 
@@ -25,10 +23,9 @@ Currently building **CareCade**, a HIPAA/SOC2-compliant platform for Washington 
 
 - 86% revenue increase for a CareCade client (verified via fiscal.wa.gov)
 - QatarDebate platform running 7+ years in production
-- ThinkWall.st processes 7,500+ stocks daily with Go microservices
 
 ---
 
 ## Contact
 
-[carecade.org](https://carecade.org) · [thinkwallst.com](https://thinkwallst.com) · [LinkedIn](https://linkedin.com/in/ielhag)
+[carecade.org](https://carecade.org) · [LinkedIn](https://linkedin.com/in/ielhag) · [Personal Website](https://elhags.com)
