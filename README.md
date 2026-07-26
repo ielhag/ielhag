@@ -9,13 +9,13 @@ Currently building **CareCade**, a HIPAA/SOC2-compliant platform for Washington 
 
 ## Active Projects
 
-**[CareCade](https://carecade.org)** — Multi-tenant SaaS for DDA/DSHS providers. Next.js 14, Laravel 11, Flutter. HIPAA + SOC2 compliant.
+**[CareCade](https://carecade.org)** — Multi-tenant SaaS for DDA/DSHS providers. Next.js 16, Laravel 12, GoLang, Flutter. HIPAA + SOC2 compliant.
 
 ---
 
 ## Stack
 
-`Next.js 14` `Laravel 11` `Flutter` `FastAPI` `Go` `AWS ECS` `Stripe` `PostgreSQL` `Redis` `Pusher` `Firebase` `HIPAA/SOC2`
+`Next.js 16` `Laravel 12` `Flutter` `FastAPI` `Go` `AWS ECS` `Stripe` `PostgreSQL` `Redis` `Pusher` `Firebase` `HIPAA/SOC2`
 
 ---
 
